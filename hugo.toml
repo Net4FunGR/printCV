@@ -1,9 +1,3 @@
-#baseURL = 'https://example.org/'
-#languageCode = 'en-us'
-#title = 'My New Hugo Site'
-#theme = 'almeida-cv'
-
-
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -30,4 +24,4 @@ colorRightColumnHeadingText = "#000"
 colorRightColumnBodyText = "#000"
 colorRightColumnIconPrimary = "#000"
 colorRightColumnIconBackground = "#e3bfb8"
-pages = 2
+pages = 3
